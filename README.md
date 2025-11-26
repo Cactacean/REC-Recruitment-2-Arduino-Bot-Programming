@@ -21,3 +21,6 @@ also, the different functions i.e. movement and cube dropping
 
 shall be seperated into different files 
 for better readability and working with teammates in parallel
+
+
+but yea, glad i learned this before going into the real world
